@@ -1,1 +1,1 @@
-# typescript_Assignment_41
+# typescript_Assignment_41_Magician
